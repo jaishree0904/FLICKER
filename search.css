@@ -1,0 +1,40 @@
+body {
+    background: url('pur.jpeg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.header{
+    background-color:#f3f3eb;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-right: 600px;
+    padding-left: 600px;
+    margin-left:-10px;
+
+}
+.sec{
+    padding: 50px;
+    display: flex; 
+    background: url("pur.jpeg");
+    
+}
+.contenir{
+    margin-left: 300px;
+    margin-top: 70px;
+}
+.sa{
+    color: rgb(224, 234, 234);
+    margin-bottom: 20px;
+    margin-left: 300px;
+}
+
+
+
+
+  
+    
+
+   
